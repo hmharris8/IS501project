@@ -1,0 +1,51 @@
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+ul{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-color: aliceblue;
+}
+
+iframe{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+div.center{
+    align-items: center;
+}
